@@ -1,0 +1,25 @@
+{
+  "name": "npm-test-6-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.1.0"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonasaa00/npm-test-6-8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonasaa00/npm-test-6-8/issues"
+  },
+  "homepage": "https://github.com/Jonasaa00/npm-test-6-8#readme"
+}
